@@ -1,8 +1,10 @@
-# Fabric Example Mod
+## QuickLeafDecay
 
-## Setup
+QuickLeafDecay mod for minecraft 1.16.x use fabric.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Only need install in server.
+
+
 
 ## License
 
